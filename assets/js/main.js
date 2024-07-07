@@ -228,7 +228,7 @@ document.getElementById("check").onclick = function() {
   const resumeBtn = document.querySelector(".resume__button");
     resumeBtn.addEventListener("click", function(){
         console.log("clicked")
-        window.open("https://drive.google.com/file/d/1YOaTK5tzlUlq7LtZksU9uRBEqEsylzTZ/view",
+        window.open("https://drive.google.com/file/d/1xJuNnItx-EMfkY8weRh7gHAxGuipqHoU/view?usp=sharing",
             "_blank"
         )
     });
